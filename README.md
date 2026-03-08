@@ -4,15 +4,9 @@
 </p>
 
 <p align="left">
-  <h2>Programming Languages:</h2>
-  <img src="https://skillicons.dev/icons?i=python,cpp,latex,matlab">
-  <h2>Web Frameworks</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,fastapi,nginx,postgres,vite,wordpress">
-  <h2>DevOps Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,pycharm,vscode,vim">
-  <h2>Data Science</h2>
-  <img src="https://skillicons.dev/icons?i=r,pytorch,sklearn">
-  <h2>Design Tools</h2>
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex,matlab"> ~
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,fastapi,nginx,postgres,vite,wordpress"> ~
+  <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,pycharm,vscode,vim"> ~
+  <img src="https://skillicons.dev/icons?i=r,pytorch,sklearn"> ~
   <img src="https://skillicons.dev/icons?i=ai,ps,pr">
-  <img src="https://skillicons.dev/icons?i=ai,bash,cpp,css,docker,fastapi,git,html,js,latex,linux,matlab,nginx,ps,php,postgres,pr,pycharm,py,pytorch,r,react,sublime,sklearn,vim,vite,vscode,wordpress" width="99%">
 </p>
