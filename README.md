@@ -4,9 +4,10 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,latex,matlab"> ~
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,fastapi,nginx,postgres,vite,wordpress"> ~
-  <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,pycharm,vscode,vim"> ~
-  <img src="https://skillicons.dev/icons?i=r,pytorch,sklearn"> ~
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr">
+  ①&nbsp;<img src="https://skillicons.dev/icons?i=python,cpp,latex,matlab"> 
+  ②&nbsp;<img src="https://skillicons.dev/icons?i=html,css,js,php,react,fastapi,nginx,postgres,vite,wordpress">
+  
+  ③&nbsp;<img src="https://skillicons.dev/icons?i=git,bash,docker,linux,pycharm,vscode,vim">
+  ④&nbsp;<img src="https://skillicons.dev/icons?i=r,pytorch,sklearn">
+  ⑤&nbsp;<img src="https://skillicons.dev/icons?i=ai,ps,pr">
 </p>
