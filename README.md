@@ -1,8 +1,18 @@
 <p align="center">
-<img src="https://github-readme-stats-nine-blue-31.vercel.app/api?username=ZhengYeah&show_icons=true&hide_border=false&theme=transparent&locale=en&rank_icon=github&hide_title=true" width="55%">
-<img src="https://github-readme-stats-nine-blue-31.vercel.app/api/top-langs?username=ZhengYeah&show_icons=true&hide_border=false&theme=transparent&locale=en&layout=compact&hide=tex&hide_title=true" width="43.2%">
+  <img src="https://github-readme-stats-nine-blue-31.vercel.app/api?username=ZhengYeah&show_icons=true&hide_border=false&theme=transparent&locale=en&rank_icon=github&hide_title=true" width="55%">
+  <img src="https://github-readme-stats-nine-blue-31.vercel.app/api/top-langs?username=ZhengYeah&show_icons=true&hide_border=false&theme=transparent&locale=en&layout=compact&hide=tex&hide_title=true" width="43.2%">
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ai,bash,cpp,css,docker,fastapi,git,html,js,latex,linux,matlab,nginx,ps,php,postgres,pr,pycharm,py,pytorch,r,react,sublime,sklearn,vim,vite,vscode,wordpress" width="99%">
+<p align="left">
+  <h2>Programming Languages:</h2>
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex,matlab">
+  <h2>Web Frameworks</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,fastapi,nginx,postgres,vite,wordpress">
+  <h2>DevOps Tools</h2>
+  <img src="https://skillicons.dev/icons?i=git,bash,docker,linux,pycharm,vscode,vim">
+  <h2>Data Science</h2>
+  <img src="https://skillicons.dev/icons?i=r,pytorch,sklearn">
+  <h2>Design Tools</h2>
+  <img src="https://skillicons.dev/icons?i=ai,ps,pr">
+  <img src="https://skillicons.dev/icons?i=ai,bash,cpp,css,docker,fastapi,git,html,js,latex,linux,matlab,nginx,ps,php,postgres,pr,pycharm,py,pytorch,r,react,sublime,sklearn,vim,vite,vscode,wordpress" width="99%">
 </p>
