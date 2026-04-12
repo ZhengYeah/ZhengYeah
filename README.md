@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,latex,matlab,html,css,js,php,react,fastapi,nginx,postgres,vite,wordpress,git,bash,docker,linux,pycharm,vscode,vim,r,pytorch,sklearn,ai,ps,pr" width="99%"> 
+  <img src="https://skillicons.dev/icons?i=python,cpp,latex,matlab,html,css,js,ts,php,react,fastapi,flask,nginx,postgres,vite,wordpress,git,bash,docker,linux,pycharm,vscode,vim,r,pytorch,sklearn,ai,ps,pr" width="99%"> 
 </p>
